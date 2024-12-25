@@ -5,7 +5,8 @@
     "@decidim/browserslist-config": "^0.28.4",
     "@decidim/core": "^0.28.4",
     "@decidim/elections": "^0.28.4",
-    "@decidim/webpacker": "^0.28.4"
+    "@decidim/webpacker": "^0.28.4",
+    "emojibase": "^16.0.0"
   },
   "version": "0.1.0",
   "devDependencies": {
